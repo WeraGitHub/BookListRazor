@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v4eLwn7HLgmX/vbEzFEW4daaXkAQ1wrUyxSuaDnKZO1lmhZXloiW3JOX2d+vNv6cBu+Ij6lw5/e91Uuv19HkzA==",
+  "success": true,
+  "projectFilePath": "C:\\MyProjects\\BookListRazor\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\weron\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
